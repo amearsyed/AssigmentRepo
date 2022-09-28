@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2397" started-at="2022-09-28T12:23:04 IST" finished-at="2022-09-28T12:23:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2397" started-at="2022-09-28T12:23:04 IST" finished-at="2022-09-28T12:23:06 IST">
+      <class name="com.aasignment.CreateProjectTest">
+        <test-method status="PASS" signature="createGetAndValidateProjectTest()[pri:0, instance:com.aasignment.CreateProjectTest@2353b3e6]" name="createGetAndValidateProjectTest" duration-ms="2365" started-at="2022-09-28T12:23:04 IST" finished-at="2022-09-28T12:23:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createGetAndValidateProjectTest -->
+      </class> <!-- com.aasignment.CreateProjectTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
